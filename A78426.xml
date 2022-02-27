@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prince of VVales his coming to Yarmouth, vvith 19. saile of shipping, &amp; landing an armie for the relief of Colchester. Also a fight between them and the Parliaments forces; some of the princes men taken prisoners, and rescued again by the town of Yarmouth, who joyne with the prince, and keep out the Parliaments forces. With a list of the lords, knights, and other commanders come over with the prince. And Sir Charles Lucas his men roasting a whole horse, for joy of the Prince his coming. Certified in a letter from a gentleman of quality in the army.</title>
+            <title>Prince of Wales his coming to Yarmouth.</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78426</idno>
+            <idno type="STC">Wing C163</idno>
+            <idno type="STC">Thomason E454_18</idno>
+            <idno type="STC">ESTC R205003</idno>
+            <idno type="EEBO-CITATION">99864449</idno>
+            <idno type="PROQUEST">99864449</idno>
+            <idno type="VID">116678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116678)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prince of VVales his coming to Yarmouth, vvith 19. saile of shipping, &amp; landing an armie for the relief of Colchester. Also a fight between them and the Parliaments forces; some of the princes men taken prisoners, and rescued again by the town of Yarmouth, who joyne with the prince, and keep out the Parliaments forces. With a list of the lords, knights, and other commanders come over with the prince. And Sir Charles Lucas his men roasting a whole horse, for joy of the Prince his coming. Certified in a letter from a gentleman of quality in the army.</title>
+                  <title>Prince of Wales his coming to Yarmouth.</title>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 27. 1647 [i.e 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W. C.</note>
+                  <note>Annotation on Thomason copy: above the 7 in imprint year: "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Colchester (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Yarmouth (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116678:1" rendition="simple:additions"/>
+            <p>The Prince of VVales His Coming to YARMOUTH, VVith 19. Saile of Shipping, &amp; landing an Armie for the Relief of <hi>COLCHESTER.</hi> Alſo a Fight between them and the Par<g ref="char:EOLhyphen"/>liaments Forces; ſome of the Princes men taken Priſon<g ref="char:EOLhyphen"/>ers, and reſcued again by the town of <hi>Yarmouth,</hi> who joyne with the Prince, and keep out the Parliaments Forces.</p>
+            <p>WITH A liſt of the Lords, Knights, and other Com<g ref="char:EOLhyphen"/>manders come over with the Prince.</p>
+            <p>And Sir <hi>Charles Lucas</hi> his men roaſting a whole horſe, for joy of the Prince his coming.</p>
+            <p>Certified in a Letter from a Gentleman of Quality in the Army.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Auſtin.</hi> July 27. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116678:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative top border piece with a central fleur-de-lis flanked by a Tudor rose and a Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>A LETTER Certifying the Prince of VVales His Arrival at Yarmouth, with nine<g ref="char:EOLhyphen"/>teen Saile of Ships, and ſtore of Men.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my promiſe, I ſhall as often as may be, given you ſuch intelligence as we have at the Leaguer.</p>
+            <p>This morning a Trumpeter went into the Town about the Exchange of Mr. <hi>Aſhburnham</hi> for Sir <hi>William Maſſam;</hi> the chiefe thing in difference about this Exchange is, thoſe in the towne would have the Lord Generall give Mr. <hi>Aſhburnham</hi> a Paſſe
+<pb n="2" facs="tcp:116678:3"/>to goe whither he pleaſeth, and they ſay, they will give one to Sir WILLIAM MASSAM to go all England over.</p>
+            <p>We have cut off all their pipes for wa<g ref="char:EOLhyphen"/>ter, by which meanes wee have not onely prevented them of good water, but have furniſhed our ſelves with good ſtore of lead; they have very little wa<g ref="char:EOLhyphen"/>ter in the towne but what is muddy, or annoyed with dead horſes.</p>
+            <p>The Common Souldiers have now li<g ref="char:EOLhyphen"/>ved upon horſe-fleſh, for the moſt part, five daies together.</p>
+            <p>The other night they roaſted a whole horſe at one of their Courts of Guard: the Foot are very merry at it, but the Troopers are diſcontented for the loſſe of their horſes, not knowing how to get others, nor well likeing the ſervice of mow<g ref="char:EOLhyphen"/>ing with their new deviſed long ſithes, which weapons are put into the hands of ſuch as were Troopers.</p>
+            <p>They turned forth to graze under
+<pb n="3" facs="tcp:116678:3"/>the walls about 40. horſe, which our men fetched away; they are altogether unſer<g ref="char:EOLhyphen"/>viceable, for that they are almoſt ſtar<g ref="char:EOLhyphen"/>ved.</p>
+            <p>The Lord Generall being deſirous to gaine this place without ſhedding any more blood, (if it bee poſsible) thought of a device to let the Souldiers in the towne to know what was thought hi<g ref="char:EOLhyphen"/>therto to bee concealed from them, viz.</p>
+            <p>
+               <hi>That if they would deliver up the Lord</hi> Goring, <hi>the Lord</hi> Capell, <hi>the Lord</hi> Loughborough, <hi>and ſome other of the chiefe in the Towne, the reſt ſhould have Quarter and Paſſes to go to their owne houſes:</hi> and Papers ſignifying thus much were ſent into the Town upon the head of an Arrow, of which we hear no<g ref="char:EOLhyphen"/>thing yet.</p>
+            <pb n="4" facs="tcp:116678:4"/>
+            <p> To morrow we expect the other great peeces and the Ammunition from London to come up to us, and then you will heare more, if they yeeld nor before, which can hardly be expected, for that certaine intel<g ref="char:EOLhyphen"/>ligence is come, that the Prince and the Duke of YORK are come to Yarmouth with nineteen ſaile of ſhips, in which are thought to be about 2000. men; ſome of them landing neer the towne, were ſet up<g ref="char:EOLhyphen"/>on by a few of our horſe which were there, and after a little fight with them, we took ſeven priſoners, the reſt getting into the towne, from whence a party of Towneſ<g ref="char:EOLhyphen"/>men iſſued out, and reſcued the priſoners from us, and placed a Guard at the Turne<g ref="char:EOLhyphen"/>pike.</p>
+            <p>There is great diviſion in the Towne, ſome are for the Prince his landing there, and others againſt it; but we may gueſſe by this act of theirs in reſcuing thoſe priſo<g ref="char:EOLhyphen"/>ners, which ſide it is that is moſt preva<g ref="char:EOLhyphen"/>lent, and what we may expect further from them; the deſigne of the Prince his com<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:116678:4"/>thither is undoubtedly for the reliefe of Colchſter, (if poſsible) for it is not a<g ref="char:EOLhyphen"/>bove two dayes march from thence: Co<g ref="char:EOLhyphen"/>lonell SCROOP with eight Troops of Horſe and Dragoones is ordered by the Lord Generall to march from the Lea<g ref="char:EOLhyphen"/>guer towards Yarmouth, and attend the motion of the Prince, if he land with any forces there, with whom it is ſaid a thouſand of the Norfolk Foot will joyne, and if need be, we ſhall ſpare more Forces from hence, and yet be able to make good the Leaguer.</p>
+            <p>Letters from Major Generall LAM<g ref="char:EOLhyphen"/>BERT certifie, that he is come to Bowes, and Duke HAMILTON at Applebey, they have had ſeverall skirmiſhes in par<g ref="char:EOLhyphen"/>ties, but not many men loſt on either ſide: Yorkeſhire Horſe, and a thouſand of Lievtenant-Generall CROMVVELLS Foot are by this time joyned with him, and being thus united, he will be in a very good poſture to give the Scots and
+<pb n="6" facs="tcp:116678:5"/>LANGDALES Forces a Field fight. I pray let him heare from you by this Meſſenger, that is</p>
+            <closer>
+               <dateline>From the Leaguer <date>25. July, 1648.</date>
+               </dateline>
+               <signed>Your aſſured Friend, W. C.</signed>
+            </closer>
+         </div>
+         <div type="list_of_companions">
+            <head>
+               <hi>A Liſt of the Princes, Lords, Knights,</hi> &amp;c. <hi>which come along with the</hi> Prince of VVales.</head>
+            <list>
+               <item>Duke of Yorke.</item>
+               <item>Prince Rupert.</item>
+               <item>Prince Maurice.</item>
+               <item>Lord Gerrard.</item>
+               <item>Lord Culpepper.</item>
+               <item>Lord Jermyn.</item>
+               <item>Lord Ruthen.</item>
+               <item>Sir John Berkley.</item>
+               <item>Col. Bamfield, with fe<g ref="char:EOLhyphen"/>verall other Comman<g ref="char:EOLhyphen"/>ders.</item>
+               <item>2000. Men.</item>
+               <item>19. Ships, and great ſtore of Ordnance.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
